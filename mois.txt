@@ -3,4 +3,15 @@ Février
 Mars
 Avril
 Mai
-etc.
+
+// J'ajoute ici les mois manquants
+
+Juin
+Juillet
+Août 
+Septembre
+Octobre
+Novembre
+Décembre
+
+// Et voilà :)
